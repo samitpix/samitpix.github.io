@@ -480,7 +480,7 @@ body.darktheme ::-webkit-scrollbar-thumb:hover {background-color: #aaaaaa;backgr
 <a href="javascript:void(0)" id="dragbar" style="width: 5px; top: 144px; left: 773px; height: 750px; cursor: col-resize;"></a>
 <div id="container">
 <div id="navbarDropMenu" class="w3-dropdown-content w3-bar-block w3-border" style="z-index:5">
-<span onclick="openMenu()" class="w3-button w3-display-topright w3-transparent ws-hover-black" title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;">×</span>
+<span onclick="openMenu()" class="w3-button w3-display-topright w3-transparent ws-hover-black" title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;">Ã—</span>
   <div class="w3-bar-block">
     <a class="w3-bar-item w3-button" href="javascript:void(0);" title="Change Orientaton" onclick="openMenu();restack(currentStack)"><i class="fa fa-rotate" style="font-size:26px;margin-left:-4px;margin-right:8px"></i><span style="position:relative;top:-4px;left:2px;">Change Orientation</span></a>
     <a class="w3-bar-item w3-button" href="javascript:void(0);" title="Save" onclick="openMenu();spaceIt.showDialog()"><i class="fa fa-save" style="font-size:26px;margin-right:10px;"></i><span style="position:relative;top:-4px;left:2px;">Save Code</span></a>
